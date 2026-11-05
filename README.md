@@ -26,13 +26,14 @@ Lưu ý: đổi danh sách người (kể cả người đến muộn) thì mã 
 
 Mở link ghi điểm trên điện thoại (iPhone: Safari, rồi **Chia sẻ → Thêm vào Màn hình chính** để dùng như ứng dụng, mở lại không cần mạng).
 
-1. Tab **Ghi điểm**: dán danh sách trận đã sao chép ở mục 1, bấm **Nạp danh sách**.
-2. Gõ mã trận vào ô tìm kiếm (ví dụ `NH1`), bấm vào trận.
-3. Bấm **▶ Bắt đầu** khi trận bắt đầu. Bấm tên người thắng điểm: mỗi lần bấm là +1.
+1. Tab **Ghi điểm**: chỉ cần gõ **tên hai người** vào ô "Trận mới" rồi bấm **▶ Bắt đầu trận**. Máy tự đặt mã T1, T2, T3... và bắt đầu ghi. Về nhà bạn tự đối chiếu với danh sách giải.
+   (Có sẵn danh sách trận từ mục 1 thì bấm "Nạp vào đây" rồi **Nạp danh sách**, sau đó gõ mã trận để chọn. Không bắt buộc.)
+2. Trận xong bấm **← Danh sách**, gõ tên hai người tiếp theo.
+3. Bấm tên người thắng điểm: mỗi lần bấm là +1.
 4. Máy tự nhận hết set, hết trận, và tự đổi bên sau mỗi set (ở set quyết định, đổi bên khi người đầu tiên chạm 5 điểm). Bấm **Đổi bên** nếu cần chỉnh.
 5. Bấm **↶ Hoàn tác** nếu bấm nhầm.
 6. **Chế độ nhẹ (chỉ bấm khi hết set)**: đỡ mỏi tay. Có thể chọn trận 5 hoặc 3 set.
-7. Mỗi lần bấm được lưu ngay trong điện thoại. Tải lại trang không mất. Cuối ngày bấm **Lưu file ghi điểm** để gửi file ghi điểm sang máy tính.
+7. Mỗi lần bấm được lưu ngay trong điện thoại. Tải lại trang không mất. Cuối ngày bấm **Lưu file ghi điểm** để chuyển sang máy tính.
 
 ### Tab Đồng hồ
 
