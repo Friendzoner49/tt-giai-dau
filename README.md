@@ -32,8 +32,9 @@ Mở link ghi điểm trên điện thoại (iPhone: Safari, rồi **Chia sẻ �
 3. Bấm tên người thắng điểm: mỗi lần bấm là +1.
 4. Máy tự nhận hết set, hết trận, và tự đổi bên sau mỗi set (ở set quyết định, đổi bên khi người đầu tiên chạm 5 điểm). Bấm **Đổi bên** nếu cần chỉnh.
 5. Bấm **↶ Hoàn tác** nếu bấm nhầm.
-6. **Chế độ nhẹ (chỉ bấm khi hết set)**: đỡ mỏi tay. Có thể chọn trận 5 hoặc 3 set.
-7. Mỗi lần bấm được lưu ngay trong điện thoại. Tải lại trang không mất. Cuối ngày bấm **Lưu file ghi điểm** để chuyển sang máy tính.
+6. **Xoay ngang** (nút ⟳ trên cùng bên phải): iPhone đang khóa xoay màn hình vẫn xoay được. Bấm một lần xoay sang một bên, bấm lần nữa xoay sang bên kia, lần ba trở về dọc.
+7. **Chế độ nhẹ (chỉ bấm khi hết set)**: đỡ mỏi tay. Có thể chọn trận 5 hoặc 3 set.
+8. Mỗi lần bấm được lưu ngay trong điện thoại. Tải lại trang không mất. Cuối ngày bấm **Lưu file ghi điểm** để chuyển sang máy tính.
 
 ### Tab Đồng hồ
 
